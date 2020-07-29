@@ -1,5 +1,4 @@
 test code
 question&anwser
 doing somthing
-
-
+kill bug
